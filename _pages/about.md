@@ -24,7 +24,9 @@ My research interests mainly focus on intelligent optimization methods for drone
 
 # 📝 Publications 
 
-[1] **Fangyu Hong**, Guohua Wu#, et.al., Logistics in the Sky: A Two-phase Optimization Approach for the Drone Package Pickup and Delivery System, IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 9, pp. 9175-9190, 2023.[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[2] **Fangyu Hong**, Guohua Wu*, Yalin Wang, Qizhang Luo, Ling Wang, Jianmai Shi, Multi-objective multi-drone collaborative routing problem with heterogeneous delivery and pickup service, IEEE Transactions on Intelligent Transportation Systems, 10.1109/TITS.2025.3548426.[PDF]
+[2] **Fangyu Hong**, Guohua Wu*, Qizhang Luo, Huan Liu, Xiaoping Fang, Witold Pedrycz, Logistics in the Sky: A Two-phase Optimization Approach for the Drone Package Pickup and Delivery System, IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 9, pp. 9175-9190, 2023.[PDF]
+[3] Qizhang Luo, Guohua Wu*, Anupam Trivedi, Fangyu Hong, Ling Wang, Dipti Srinivasan, Multi-objective optimization algorithm with adaptive resource allocation for truck-drone collaborative delivery and pick-up services, IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 9, pp. 9642-9657, 2023.[PDF]
 
 
 

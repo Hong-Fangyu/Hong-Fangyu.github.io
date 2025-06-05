@@ -33,9 +33,11 @@ My research interests mainly focus on intelligent optimization methods for drone
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 - *, City University of Hong Kong, Data Science.
+- *2023.09 - Present*, Central South University, Transportation Engineering.
+- *2020.09 - 2023.06*, Central South University, Transportation Engineering. 
+- *2013.09 - 2017.06*, Central South University,  Logistics Engineering. 
 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Services
+Journal Reviewer: IEEE T-ITS, IEEE T-CE.
